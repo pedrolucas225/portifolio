@@ -1,0 +1,13 @@
+.container_about{
+    margin: 10% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container_conteudo_about{
+    width: 650px;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
