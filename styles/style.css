@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 :root{
-    --cor-primaria: #35155D;
-    --cor-secundaria: #8CABFF;
-    --cor-terciaria: #B6BBC4;
-    --cor-hover: #512B81;
+    --cor-primaria: #FAF6F0;
+    --cor-secundaria: #FFB534;
+    --cor-terciaria: #000000;
+    --cor-hover: #F7EFE5;
 
 
     --fonte-primaria: 'Krona One', 'sans-serif';
@@ -80,6 +80,7 @@ span{
 }
 .conteudo_links_link:hover{
     background-color: var(--cor-hover);
+    
 }
 .cabecalho{
 padding: 2% 0% 0% 15%;
@@ -101,7 +102,7 @@ padding: 2% 0% 0% 15%;
 }
 .minha_foto {
     width: 50%;
-    border: 2px solid var(--cor-terciaria);
+    border: 2px solid var(--cor-secundaria);
     border-radius: 10px;
 }
 .rodape{
